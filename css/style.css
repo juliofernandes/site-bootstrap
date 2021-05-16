@@ -1,0 +1,39 @@
+body {
+    font-family: Open Sans;
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: #148F77 ;
+    
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.quem-somos {
+    background-color: #8181f7;
+    color: #ffffff;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color:#2E86C1;
+    color: #ffffff;
+}
+
+.bg-footer {
+    
+    background-color: #000;
+    color: #fff;
+}
+
+p {
+    padding-top: 30px;
+}
+
